@@ -1,0 +1,23 @@
+body{
+    background: rgb(211, 218, 219);
+}
+img{
+    width: 99%;
+    height: 20%;
+}
+h16{
+    color:rgb(21, 122, 80);
+    font-size: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h4{
+    color: rgb(21, 122, 80);
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+p{
+    color: rgb(21, 122, 80);
+    font-size:medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
